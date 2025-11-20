@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd apps/studio && pnpm install && pnpm run build",
+  "outputDirectory": "apps/studio/dist"
+}
