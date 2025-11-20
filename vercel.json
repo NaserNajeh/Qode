@@ -1,4 +1,0 @@
-{
-  "buildCommand": "pnpm install && pnpm --filter \"@quests/studio\" run build",
-  "outputDirectory": "apps/studio/dist"
-}
